@@ -16,7 +16,7 @@ A curated collection of high-quality themes for the [pi coding agent](https://gi
 Install the package using the pi CLI:
 
 ```bash
-pi install npm:@raresportan/pi-themes
+pi install https://github.com/raresportan/pi-themes
 ```
 
 ## 🛠️ Usage

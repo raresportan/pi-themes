@@ -6,7 +6,7 @@
     "fg": "#f8f8f0",
     "accent": "#FF3F4F",
     "muted": "#5c6370",
-    "selection": "#3E4451"
+    "selection": "#5e6475"
   },
   "colors": {
     "accent": "accent",
@@ -17,7 +17,7 @@
     "error": "accent",
     "warning": "#FFD945",
     "muted": "muted",
-    "dim": "selection",
+    "dim": "muted",
     "text": "",
     "thinkingText": "muted",
     "selectedBg": "selection",
@@ -52,9 +52,9 @@
     "syntaxNumber": "#E373CE",
     "syntaxType": "#19D1E5",
     "syntaxOperator": "accent",
-    "syntaxPunctuation": "muted",
-    "thinkingOff": "selection",
-    "thinkingMinimal": "selection",
+    "syntaxPunctuation": "fg",
+    "thinkingOff": "muted",
+    "thinkingMinimal": "muted",
     "thinkingLow": "muted",
     "thinkingMedium": "accent",
     "thinkingHigh": "accent",

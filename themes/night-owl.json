@@ -6,7 +6,7 @@
     "fg": "#D6DEEB",
     "accent": "#82AAFF",
     "muted": "#637777",
-    "selection": "#1D3B53"
+    "selection": "#2a4d6d"
   },
   "colors": {
     "accent": "accent",
@@ -52,10 +52,10 @@
     "syntaxNumber": "#F78C6C",
     "syntaxType": "accent",
     "syntaxOperator": "fg",
-    "syntaxPunctuation": "muted",
-    "thinkingOff": "selection",
-    "thinkingMinimal": "selection",
-    "thinkingLow": "selection",
+    "syntaxPunctuation": "fg",
+    "thinkingOff": "muted",
+    "thinkingMinimal": "muted",
+    "thinkingLow": "muted",
     "thinkingMedium": "#44596B",
     "thinkingHigh": "accent",
     "thinkingXhigh": "#C792EA",
