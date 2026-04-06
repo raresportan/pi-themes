@@ -1,0 +1,28 @@
+{
+  "name": "@raresportan/pi-themes",
+  "version": "1.0.0",
+  "description": "A collection of high-quality themes for the pi coding agent.",
+  "main": "index.js",
+  "keywords": [
+    "pi-coding-agent",
+    "themes",
+    "night-owl",
+    "dracula",
+    "monokai-night",
+    "monokai-vibrant",
+    "nightcall",
+    "synthwave84"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "pi": {
+    "themes": [
+      "themes/night-owl.json",
+      "themes/dracula.json",
+      "themes/monokai-night.json",
+      "themes/monokai-vibrant.json",
+      "themes/nightcall.json",
+      "themes/synthwave84.json"
+    ]
+  }
+}
