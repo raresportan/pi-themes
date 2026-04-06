@@ -37,11 +37,13 @@ Alternatively, you can set it directly in your `settings.json`:
 
 ## 📜 Credits
 
-This package is a port of existing color schemes. All credits go to the original creators:
+This package is a port of existing color schemes. Some colors are changed. All credits go to the original creators:
 - **Night Owl** by [Sarah Drasner](https://css-tricks.com/creating-a-vs-code-theme/)
 - **Dracula** by [Zeno Rocha](https://draculatheme.com/)
 - **Monokai Vibrant** by [dylantmarsh](https://github.com/dylantmarsh/monokai-vibrant)
 - **Nightcall** by [Bobby Patterson](https://github.com/bpat86/nightcall-vscode-theme)
 - **SynthWave '84** inspired by the SynthWave '84 aesthetic.
+
+Implemented using [pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent), and Gemma 4 / Qwen 3.5 local models. 
 
 License: MIT
