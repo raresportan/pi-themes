@@ -17,12 +17,7 @@
   "license": "MIT",
   "pi": {
     "themes": [
-      "themes/night-owl.json",
-      "themes/dracula.json",
-      "themes/monokai-night.json",
-      "themes/monokai-vibrant.json",
-      "themes/nightcall.json",
-      "themes/synthwave84.json"
+      "./themes"
     ]
   }
 }
